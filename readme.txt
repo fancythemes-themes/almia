@@ -1,8 +1,8 @@
 === Almia ===
 Contributors: -
 Requires at least: WordPress 4.4
-Tested up to: WordPress 4.8.1
-Version: 1.2
+Tested up to: WordPress 4.9
+Version: 1.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
@@ -30,6 +30,9 @@ A Blogging theme with clean design.
 * Properly escape the translatable string
 * Remove unused files
 * Remove unused functions
+
+= 1.9 =
+* Fix footer navigation link when header image set
 
 == Copyright ==
 
