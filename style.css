@@ -4,7 +4,7 @@ Theme URI: https://fancythemes.com/themes/almia/
 Author: FancyThemes
 Author URI: https://fancythemes.com
 Description: A Blogging theme with clean design.
-Version: 1.8
+Version: 1.9
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
@@ -674,7 +674,7 @@ textarea:focus {
 
 .search-form {
 	position: relative;
-	border: 1px solid #ddd; 
+	border: 1px solid #ddd;
 }
 
 input[type="search"].search-field {
@@ -1106,7 +1106,7 @@ a:active {
 	position: relative;
 	padding: 40px 20px;
 	margin: 5px;
-	background-color: #fff; 
+	background-color: #fff;
 }
 
 .pagination:before,
@@ -1895,8 +1895,8 @@ blockquote:after,
 .custom-header-image .site-header .site-branding .site-title a,
 .custom-header-image .site-header .site-branding .site-title a:hover,
 .custom-header-image .site-header .site-branding .site-description,
-.custom-header-image .main-navigation > ul > li > a,
-.custom-header-image .main-navigation > div > ul > li > a  {
+.custom-header-image .site-header .main-navigation > ul > li > a,
+.custom-header-image .site-header .main-navigation > div > ul > li > a  {
 	color: #fff;
 }
 
@@ -2288,7 +2288,7 @@ body:not(.search-results) .entry-summary > :last-child,
 
 .social-share {
 	text-align: center;
-	padding-top: 6%; 
+	padding-top: 6%;
 }
 
 .social-share-title {
@@ -2312,12 +2312,12 @@ body:not(.search-results) .entry-summary > :last-child,
 
 .social-share button:hover {
 	background: none;
-	color: #1a1a1a; 
+	color: #1a1a1a;
 }
 
 .social-share button:before {
 	content: "";
-	
+
 }
 
 .social-share .icon-twitter:before {
@@ -2518,7 +2518,7 @@ body.search-no-results .page-header {
 }
 
 .site-featured-posts .slides {
-	
+
 }
 
 .site-featured-posts .post-featured {
@@ -2568,7 +2568,7 @@ body.search-no-results .page-header {
 	height: 100%;
 	width: 50px;
 	background-color: rgba(0, 0, 0, 0.6);
-	
+
 }
 
 .flex-nav-prev a,
@@ -2623,7 +2623,7 @@ body.search-no-results .page-header {
 	-o-object-fit: cover;
 	   object-fit: cover;
 	opacity: .9;
-	font-family: 'object-fit: cover;';	
+	font-family: 'object-fit: cover;';
 }
 
 /**
@@ -3350,7 +3350,7 @@ p > video {
 	}
 
 	.widget {
-		padding: 50px; 
+		padding: 50px;
 	}
 
 	.pagination {
@@ -3391,7 +3391,7 @@ p > video {
 	}
 
 	.site-footer {
-		padding: 50px; 
+		padding: 50px;
 	}
 
 	.footer-widget .widget {
@@ -3417,7 +3417,7 @@ p > video {
 
 	.site {
 		margin: 50px;
-	}	
+	}
 }
 
 
@@ -3629,7 +3629,7 @@ p > video {
 		background-color: #fff;
 		margin-top: -100px;
 		padding: 30px 50px 0;
-		position: relative; 
+		position: relative;
 	}
 	.comments-area {
 		padding: 50px;
@@ -3993,7 +3993,7 @@ p > video {
 
 	.site-header {
 		padding: 5.25em 4.5455% 0;
-	}	
+	}
 
 	body:not(.search-results) .entry-summary {
 		font-size: 23px;
@@ -4118,7 +4118,7 @@ p > video {
 
 @media screen and (min-width: 85em) {
 	.site {
-		margin: 50px auto 
+		margin: 50px auto
 	}
 }
 
